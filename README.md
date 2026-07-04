@@ -15,10 +15,11 @@ I am a BCA student and an aspiring **Java Full Stack Developer**. I love buildin
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, JavaScript, HTML5, CSS3 |
-| **Backend & Databases** | Spring Boot, Hibernate, MySQL |
+| **Languages** | Java, Python |
+| **Backend** | Spring Boot, Hibernate, MySQL,REST API, Maven |
 | **Frontend** | React.js | HTML | CSS | JS |
-| **Tools & Platforms** | Git, GitHub, Vercel |
+| **Database** | MySQL, Mongodb A |
+| **Tools & Platforms** | Git, GitHub, Vercel, Postman |
 
 ---
 
