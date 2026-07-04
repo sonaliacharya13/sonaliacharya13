@@ -17,7 +17,7 @@ I am a BCA student and an aspiring **Java Full Stack Developer**. I love buildin
 | :--- | :--- |
 | **Languages** | Java, Python |
 | **Backend** | Spring Boot, Hibernate, MySQL,REST API, Maven |
-| **Frontend** | React.js | HTML | CSS | JS |
+| **Frontend** | React.js, HTML, CSS, JS |
 | **Database** | MySQL, Mongodb A |
 | **Tools & Platforms** | Git, GitHub, Vercel, Postman |
 
