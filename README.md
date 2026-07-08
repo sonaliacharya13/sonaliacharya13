@@ -16,14 +16,16 @@ I am a BCA student and an aspiring **Java Full Stack Developer**. I love buildin
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Java, Python |
-| **Backend** | Spring Boot, Hibernate, MySQL,REST API, Maven |
+| **Backend**  |JDBC, Spring Boot, Spring Data JPA (Hibernate), REST APIs, JWT Authentication, Spring Security |
 | **Frontend** | React.js, HTML, CSS, JS |
-| **Database** | MySQL, Mongodb A |
-| **Tools & Platforms** | Git, GitHub, Vercel, Postman |
+| **Database** | MySQL, Mongodb |
+| **Tools & Platforms** | Git, GitHub, Postman, Vite, Vercel |
+| **Testing** | Junit5 |
+| **Coursework** | DBMS, OS, DSA, Software Engineering, AI, OOPs |
 
 ---
 
-###  Featured Projects
+###  Projects
 
 * **Java Banking System** – A console/desktop application focused on core Java principles, OOPs concepts, and secure data handling.
 * **Student Placement Management API** – A RESTful API built using Spring Boot and MySQL to manage student records and recruitment drives.
