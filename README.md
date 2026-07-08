@@ -35,4 +35,4 @@ I am a BCA student and an aspiring **Java Full Stack Developer**. I love buildin
 
 * **Portfolio:** https://sonaliacharya.vercel.app/
 * **LinkedIn:** https://www.linkedin.com/in/sonaliacharya2006/
-* **Email:** acharyasonali@gmail.com
+* **Email:** acharyasonali2006@gmail.com
