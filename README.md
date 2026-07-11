@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sonaliacharya13">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Sonali%20Acharya" alt="Hello! I&#39;m Sonali Acharya" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=44&height=70&width=890&text=Hello!%20I'm%20Sonali%20Acharya" alt="Hello! I&#39;m Sonali Acharya" />
   </a>
 </p>
 
@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=360&height=44&lines=Full%20stack%20developer" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  About Me
 
 I'm Sonali Acharya a BCA student with an interest in software development. I enjoy learning Java, Spring Boot, React, and web development, and I am working on improving my programming skills through projects and practice.
 
@@ -17,7 +17,7 @@ I'm Sonali Acharya a BCA student with an interest in software development. I enj
  &nbsp;I'm looking to collaborate on **Hackathon,  Web development**  
  &nbsp;Pronouns: **she/her**
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -49,7 +49,7 @@ I'm Sonali Acharya a BCA student with an interest in software development. I enj
   <a href="mailto:acharyasonali2006@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sonaliacharya13&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
